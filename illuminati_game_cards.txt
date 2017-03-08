@@ -1,0 +1,11 @@
+DirectPower/SupportPower/Resistance/Income/Alignment1/Alignment2/Alignment3/ArrowsUDLR/CardName
+Dp/Sp/Re/In	/a1	  		/a2			/a3	  	/Arrows	/Name
+1 /n /5 /1	/Violent	/Weird		/null	/nnio	/American Auto Duel Association
+2 /n /5 /1	/Liberal	/null		/null	/onin	/Anti-Nuclear Activists
+n /n /3 /1	/Peaceful	/Liberal	/null	/nnin	/Antiwar Activists
+4 /3 /6 /3	/Liberal	/Straight	/null	/oooi	/Big Media
+n /n /3 /1	/Straight	/Peaceful	/null	/nnin 	/Boy Sprouts
+5 /n /4 /5	/Liberal	/Weird		/Gov	/ooin	/California
+6 /n /5 /3  /Liberal	/null		/null	/oooi	/CFL-AIO
+3 /n /2 /3	/Communist	/null		/null	/ooni	/Chinese Campaign Donors
+6 /4 /5 /0 	/Gov		/Violent	/null	/oooi	/C.I.A.
